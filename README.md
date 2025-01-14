@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mofeoluwa
 - 👀 I’m interested in AI & Machine Learning
-- - 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on AI & Machine Learning projects
 - 📫 You can reach me at https://www.linkedin.com/in/mofe/
 
